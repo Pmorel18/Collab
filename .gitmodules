@@ -1,0 +1,3 @@
+[submodule "CollabMaïenn"]
+	path = CollabMaïenn
+	url = https://github.com/mdoucetchardron/collab.git
