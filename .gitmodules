@@ -1,3 +1,6 @@
 [submodule "CollabMaïenn"]
 	path = CollabMaïenn
 	url = https://github.com/mdoucetchardron/collab.git
+[submodule "CollabMaïwenn"]
+	path = CollabMaïwenn
+	url = https://github.com/mdoucetchardron/collab.git
